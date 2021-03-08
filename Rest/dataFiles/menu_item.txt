@@ -1,0 +1,13 @@
+101,Pizza,15.0,1
+102,Mushroom pasta,15.95,1
+103,Meatball pasta,16.5,1
+104,Cheese Ravioli,25.95,1
+200,Tea,3.5,2
+201,Coca-Cola,3.5,2
+202,Water,3.5,2
+203,Red Bull,4.0,2
+302,Buffalo Wings,10.0,3
+303,Fried Potatoes,7.0,3
+304,Shrimps,30.0,3
+401,Tiramisu,6.0,4
+402,Ice cream,5.0,4
